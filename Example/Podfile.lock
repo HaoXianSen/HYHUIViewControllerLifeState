@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - HYHUIViewControllerLifeState (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - HYHUIViewControllerLifeState (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  HYHUIViewControllerLifeState:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  HYHUIViewControllerLifeState: 7725770def1ca41b2cfeab8f2abad39b5c319fd2
+
+PODFILE CHECKSUM: 23c1c75c7193463b9c1d85328ec3a83cdac6316d
+
+COCOAPODS: 1.7.5

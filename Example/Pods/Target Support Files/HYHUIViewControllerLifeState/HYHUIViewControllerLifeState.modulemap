@@ -1,0 +1,6 @@
+framework module HYHUIViewControllerLifeState {
+  umbrella header "HYHUIViewControllerLifeState-umbrella.h"
+
+  export *
+  module * { export * }
+}
