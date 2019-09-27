@@ -25,7 +25,7 @@ This is a library that identifies the status of UIViewController， include view
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '1335430614@qq.com' => 'haoyuhong@dangdang.com' }
-  s.source           = { :git => 'https://github.com/1335430614@qq.com/HYHUIViewControllerLifeState.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/HaoXianSen/HYHUIViewControllerLifeState.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
