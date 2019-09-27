@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 This is a library that identifies the status of UIViewController， include viewDidLoadState、viewWillAppearState、viewDidAppearState、viewWillDisappearState、viewDidDisappearState；and I provide a method for specified state execute task.
                        DESC
 
-  s.homepage         = 'https://github.com/1335430614@qq.com/HYHUIViewControllerLifeState'
+  s.homepage         = 'https://github.com/HaoXianSen/HYHUIViewControllerLifeState'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '1335430614@qq.com' => 'haoyuhong@dangdang.com' }
