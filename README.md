@@ -1,3 +1,4 @@
+
 # HYHUIViewControllerLifeState
 
 [![CI Status](https://img.shields.io/travis/1335430614@qq.com/HYHUIViewControllerLifeState.svg?style=flat)](https://travis-ci.org/1335430614@qq.com/HYHUIViewControllerLifeState)
@@ -8,8 +9,11 @@
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
+## Description
+This is a library that identifies the status of UIViewController， include viewDidLoadState、viewWillAppearState、viewDidAppearState、viewWillDisappearState、viewDidDisappearState；and I provide a method for specified state execute task.
 
 ## Requirements
+iOS 8.0 later
 
 ## Installation
 
@@ -27,3 +31,4 @@ pod 'HYHUIViewControllerLifeState'
 ## License
 
 HYHUIViewControllerLifeState is available under the MIT license. See the LICENSE file for more info.
+
